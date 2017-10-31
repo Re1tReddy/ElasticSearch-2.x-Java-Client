@@ -1,4 +1,4 @@
-# es-java-client-sample
+# es-2.x-java-client
  Prerequisite : Java 8 and Later version 
 
 ### Start ElasticSearch
